@@ -1,0 +1,22 @@
+.main-slider{
+    position: absolute;
+}
+.test{
+   padding: 10px;
+   display: flex;
+   flex-direction: column;
+   
+}
+.slider-image{
+    position: relative;
+}
+.slider-detail{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.slider-close{
+    position: absolute;
+    top: 0;
+    right: 0;
+}

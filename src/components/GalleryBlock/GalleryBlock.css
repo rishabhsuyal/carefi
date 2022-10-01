@@ -1,0 +1,26 @@
+.gallery_block{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.image-div{
+    position: relative;
+}
+
+
+.image-div:hover .accodian-div{
+    display: block;
+
+}
+
+.accodian-div{
+    position: absolute;
+    top: 0;
+    display: none;
+
+}
+div[slot="content"] {
+    padding: 40px;
+  }
+

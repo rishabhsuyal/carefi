@@ -1,0 +1,29 @@
+.main-container{
+    display: flex;
+}
+.searchBar{
+    height:200px;
+    min-height: 200px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://images.unsplash.com/photo-1663451704436-88118cc5bd5e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=754&q=80');
+    margin-bottom: 20px;
+}
+.searchInside{
+    width: 50%;
+}
+.searchInside h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 1000;
+    letter-spacing: 10px;
+    margin-left: 8px;
+}
+.login-button{
+    position: absolute;
+    top: 0;
+    right: 0;
+}

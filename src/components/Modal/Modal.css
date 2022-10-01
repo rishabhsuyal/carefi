@@ -1,0 +1,10 @@
+.insta-block{
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+    
+}
+.modal-content{
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
